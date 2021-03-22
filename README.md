@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @15teacups
+- 👀 I’m interested in Visual Studio, Arduino IDE, SQL, HTML, CSS
+- 📫 How to reach me Discord:B3ttl3#9260
